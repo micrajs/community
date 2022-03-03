@@ -1,3 +1,1 @@
-<p align="center">
-  <img src=".assets/logo.png?raw=true">
-</p>
+![Micra](https://raw.githubusercontent.com/micrajs/.github/latest/assets/micra-banner.png)
